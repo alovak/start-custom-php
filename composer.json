@@ -1,7 +1,7 @@
 {
     "name": "payfort/start-custom-php",
     "require": {
-        "payfort/start": "^0.1.0"
+        "payfort/start": "^0.1.1"
     },
     "authors": [
         {

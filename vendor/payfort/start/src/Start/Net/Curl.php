@@ -55,5 +55,3 @@ class Start_Net_Curl {
     }
 }
 ?>
-
-
