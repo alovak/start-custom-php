@@ -1,12 +1,5 @@
 {
-    "name": "payfort/start-custom-php",
     "require": {
         "payfort/start": "^0.1.1"
-    },
-    "authors": [
-        {
-            "name": "Pavel Gabriel",
-            "email": "start@payfort.com"
-        }
-    ]
+    }
 }
