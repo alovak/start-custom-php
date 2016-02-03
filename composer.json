@@ -1,8 +1,5 @@
 {
     "name": "payfort/start-custom-php",
-    "config": {
-        "vendor-dir": "lib"
-    },
     "require": {
         "payfort/start": "^0.1.0"
     },
